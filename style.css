@@ -105,3 +105,9 @@
     text-align: center;
     border-radius: 15px;
 }
+
+#separator-amiibos-footer{
+    /* proporcional al ancho de la pantalla */
+    height: 20vw;
+}
+
